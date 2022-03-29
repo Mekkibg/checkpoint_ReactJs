@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5%;
+  font-size: medium;
+  font-style: italic;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  background: rgb(9,9,121);
+background: linear-gradient(194deg, rgba(9,9,121,1) 14%, rgba(161,6,74,0.7234244039412641) 51%, rgba(4,113,189,1) 100%);
+}
